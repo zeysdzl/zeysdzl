@@ -4,8 +4,7 @@
 
 ### Junior QA Engineer | Computer Engineer | Test Automation Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/senin-profilin/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=dribbble)](https://www.etsy.com/shop/SeninMağazan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zeynepduzel/)
 
 </div>
 
@@ -18,7 +17,7 @@ I am a **Computer Engineer** and **Junior QA Engineer** based in Türkiye. I spe
 * 🔭 **I’m currently working on:** **D Kare Bilgi Teknolojileri**, building a scalable E2E Test Framework for enterprise management systems.
 * 🌱 **I’m currently learning:** Advanced API Testing, CI/CD Pipelines, and Mobile App Development.
 * 💡 **My engineering background:** I have developed real-time safety systems using **YOLO & OpenCV** and worked on R&D projects involving **Raspberry Pi & STM** microcontrollers.
-* ⚡ **Fun fact:** I design aesthetic digital planners as a control freak! 🎨
+* I design aesthetic digital planners as a control freak! 🎨
 
 ---
 
