@@ -10,25 +10,25 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 I am a **Computer Engineer** and **Junior QA Engineer** based in Türkiye. I specialize in ensuring software quality through manual and automated testing. While my core focus is currently on building robust **E2E Automation Frameworks** (Python/Selenium), I have a strong background in **AI-powered Computer Vision** and **Embedded Systems**.
 
-* 🔭 **I’m currently working on:** **D Kare Bilgi Teknolojileri**, building a scalable E2E Test Framework for enterprise management systems.
-* 🌱 **I’m currently learning:** Advanced API Testing, CI/CD Pipelines, and Mobile App Development.
-* 💡 **My engineering background:** I have developed real-time safety systems using **YOLO & OpenCV** and worked on R&D projects involving **Raspberry Pi & STM** microcontrollers.
+*  **I’m currently working on:** **D Kare Bilgi Teknolojileri**, building a scalable E2E Test Framework for enterprise management systems.
+*  **I’m currently learning:** Advanced API Testing, CI/CD Pipelines, and Mobile App Development.
+*  **My engineering background:** I have developed real-time safety systems using **YOLO & OpenCV** and worked on R&D projects involving **Raspberry Pi & STM** microcontrollers.
 * I design aesthetic digital planners as a control freak! 🎨
 
 ---
 
-### 🎯 Additional Interests & Skills
+###  Additional Interests & Skills
 
 Apart from QA and Test Automation, I am passionate about:
 
-* 🤖 **AI & Computer Vision:** Experienced in developing object detection systems (BasketVision, Pool Alert) using **PyTorch** and **YOLOv8**.
-* 🔌 **Embedded Systems:** Hands-on experience with **Raspberry Pi**, **Arduino**, and **IoT** integration.
-* 🌍 **Languages:** Polyglot in progress! 🇬🇧 English (C1), 🇸🇦 Arabic (B1), 🇪🇸 Spanish (A2).
-* 💼 **Entrepreneurship:** Co-founder experience in technical project management and client relations (Artemis Pool).
+*  **AI & Computer Vision:** Experienced in developing object detection systems (BasketVision, Pool Alert) using **PyTorch** and **YOLOv8**.
+*  **Embedded Systems:** Hands-on experience with **Raspberry Pi**, **Arduino**, and **IoT** integration.
+*  **Languages:** Polyglot in progress! 🇬🇧 English (C1), 🇸🇦 Arabic (B1), 🇪🇸 Spanish (A2).
+*  **Entrepreneurship:** Co-founder experience in technical project management and client relations (Artemis Pool).
 
 ---
 
@@ -65,7 +65,7 @@ Apart from QA and Test Automation, I am passionate about:
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
 
