@@ -2,7 +2,9 @@
   <img src="header.png" width="100%" />
 </p>
 
-### 👩‍💻 Computer Engineer | Junior QA Engineer | Test Automation Enthusiast
+### 👩‍💻 Computer Engineer | Automation Engineer | AI & Computer Vision Enthusiast
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeynepduzel/)
 [![Medium](https://img.shields.io/badge/Medium-Read_My_Articles-FFB6C1?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zeynepsduzel)
@@ -16,18 +18,26 @@
 <table>
   <tr>
     <td>
-      I am a <b>Computer Engineer</b> 🎓 and <b>Junior QA Engineer</b> 🛡️ based in Türkiye. I specialize in ensuring software quality through manual and automated testing. While my core focus is currently on building robust <b>E2E Automation Frameworks</b> 🏗️ (Python/Selenium), I have a strong background in <b>AI-powered Computer Vision</b> 👁️ and <b>Embedded Systems</b> ⚡.
+      I am a <b>Computer Engineer</b>  and <b>Automation Engineer</b>  based in Türkiye, currently bridging the gap between robust software quality and intelligent systems. While I spend my days building scalable <b>E2E Automation Frameworks</b> (Python/Selenium), my true passion lies at the intersection of <b>Artificial Intelligence and Computer Vision</b> .
       <br><br>
-      🌸 <b>Working on:</b> <b>D Kare Bilgi Teknolojileri</b>, building a scalable E2E Test Framework.<br>
-      📚 <b>Learning:</b> Advanced API Testing, CI/CD Pipelines, and Mobile App Development.<br>
-      👁️ <b>CV Background:</b> Developed real-time safety systems using <b>YOLO & OpenCV</b>.<br>
-      🎨 <b>Creative Side:</b> I design aesthetic digital planners (control freak alert! ✨).
+      I believe that engineering is as much about aesthetics as it is about logic. Whether I am architecting a test suite or training a neural network, I am driven by the desire to design systems that are both functional and visually intuitive.
+      <br><br>
+      🌸 <b>Working on:</b> Engineering a scalable E2E Test Framework at <b>D Kare Bilgi Teknolojileri</b>.<br>
+      🧠 <b>Deep Dive:</b> Advancing my expertise in <b>AI-powered Computer Vision</b>, focusing on real-time object detection and spatial intelligence.<br>
+      👁️ <b>CV Background:</b> Developed high-impact safety systems using <b>YOLO & OpenCV</b>, turning complex visual data into actionable insights.<br>
+      🎨 <b>Creative Side:</b> I design aesthetic planners—because for me, "control" is a form of art. 
     </td>
     <td width="25%">
-      <img src="object_engineer.png" width="200px" alt="Object Detection Engineer">
+      <img src="object_engineer.png" width="400px" alt="Object Detection Engineer">
     </td>
   </tr>
 </table>
+
+---
+
+### ✨ Philosophy
+
+> "For me, creation is a holistic journey. Whether it’s a line of code, a machine learning model, or a digital canvas, I love designing every dimension of a project. It is this constant urge to create—to build something where nothing existed—that truly keeps me alive."
 
 ---
 
