@@ -27,8 +27,8 @@
       👁️ <b>CV Background:</b> Developed high-impact safety systems using <b>YOLO & OpenCV</b>, turning complex visual data into actionable insights.<br>
       🎨 <b>Creative Side:</b> I design aesthetic planners—because for me, "control" is a form of art. 
     </td>
-    <td width="25%">
-      <img src="object_engineer.png" width="400px" alt="Object Detection Engineer">
+    <td width="50%">
+      <img src="object_engineer.png" width="200px" alt="Object Detection Engineer">
     </td>
   </tr>
 </table>
@@ -37,7 +37,7 @@
 
 ### ✨ Philosophy
 
-> "For me, creation is a holistic journey. Whether it’s a line of code, a machine learning model, or a digital canvas, I love designing every dimension of a project. It is this constant urge to create—to build something where nothing existed—that truly keeps me alive."
+> "For me, creation is a holistic journey. Whether it’s a line of code, a machine learning model, or a digital canvas, I love designing every dimension of a project. It is this constant urge to create to build something where nothing existed that truly keeps me alive."
 
 ---
 
@@ -75,9 +75,3 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeysdzl&theme=react-dark&color=ffb6c1&bg_color=0d1117&hide_border=false" width="100%" />
 
 </div>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it." />
-</p>
