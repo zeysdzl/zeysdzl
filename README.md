@@ -46,15 +46,14 @@ I am a **Computer Engineer** and **Junior QA Engineer** based in Türkiye. I spe
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeysdzl&show_icons=true&theme=rose&hide_border=false&title_color=ff69b4&icon_color=ff69b4&text_color=ffb6c1&bg_color=0d1117" alt="Zeynep's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zeysdzl&show_icons=true&theme=rose&hide_border=false&title_color=fe8abc&icon_color=fe8abc&text_color=ffe4e1&bg_color=0d1117" alt="Zeynep's Stats" height="150" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeysdzl&layout=compact&theme=rose&hide_border=false&title_color=ff69b4&text_color=ffb6c1&bg_color=0d1117" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeysdzl&layout=compact&theme=rose&hide_border=false&title_color=fe8abc&text_color=ffe4e1&bg_color=0d1117" alt="Top Languages" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeysdzl&theme=react-dark&color=ff69b4&bg_color=0d1117&hide_border=false" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeysdzl&theme=react-dark&color=fe8abc&bg_color=0d1117&hide_border=false" width="100%" />
 </p>
-
 ---
 
 <div align="center">
