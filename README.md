@@ -40,7 +40,7 @@
 <table>
   <tr>
     <td width="20%" align="center">
-      <img src="https://r.jina.ai/i/0f52d5b6e0b7495b86b6e4e5b6e4e5b6" width="150px" />
+      <img src="codi.png" width="150px" />
     </td>
     <td width="80%">
       <blockquote>
