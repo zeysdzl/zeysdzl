@@ -37,11 +37,18 @@
 
 ### ✨ Philosophy
 
-<p align="center">
-  <img src="codi.png" width="180px" />
-</p>
-
-> "For me, creation is a holistic journey. Whether it’s a line of code, a machine learning model, or a digital canvas, I love designing every dimension of a project. It is this constant urge to create—to build something where nothing existed—that truly keeps me alive."
+<table>
+  <tr>
+    <td width="20%" align="center">
+      <img src="https://r.jina.ai/i/0f52d5b6e0b7495b86b6e4e5b6e4e5b6" width="150px" />
+    </td>
+    <td width="80%">
+      <blockquote>
+        "For me, creation is a holistic journey. Whether it’s a line of code, a machine learning model, or a digital canvas, I love designing every dimension of a project. It is this constant urge to create to build something where nothing existed that truly keeps me alive."
+      </blockquote>
+    </td>
+  </tr>
+</table>
 
 ---
 
