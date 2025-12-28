@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/render?type=waving&color=FFB6C1&height=150&section=header&text=Hi,%20I'm%20Zeynep!%20🌸&fontSize=50&animation=fadeIn" />
 
-### Junior QA Engineer | Computer Engineer | Test Automation Enthusiast
+### Junior QA Engineer | Computer Engineer 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeynepduzel/)
 
@@ -45,16 +45,15 @@ I am a **Computer Engineer** and **Junior QA Engineer** based in Türkiye. I spe
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeysdzl&show_icons=true&theme=rose&hide_border=false&title_color=ff69b4&icon_color=ff69b4&text_color=ffb6c1&bg_color=0d1117" alt="Zeynep's Stats" height="150" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeysdzl&layout=compact&theme=rose&hide_border=false&title_color=ff69b4&text_color=ffb6c1&bg_color=0d1117" alt="Top Languages" height="150" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=zeysdzl&show_icons=true&theme=rose&hide_border=true" height="165" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeysdzl&layout=compact&theme=rose&hide_border=true" height="165" alt="languages" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeysdzl&theme=react-dark&color=ffb6c1&hide_border=true" width="100%" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeysdzl&theme=react-dark&color=ff69b4&bg_color=0d1117&hide_border=false" width="100%" />
+</p>
 
 ---
 
