@@ -27,7 +27,7 @@
       👁️ <b>CV Background:</b> Developed high-impact safety systems using <b>YOLO & OpenCV</b>, turning complex visual data into actionable insights.<br>
       🎨 <b>Creative Side:</b> I design aesthetic planners—because for me, "control" is a form of art. 
     </td>
-    <td width="50%">
+    <td width="25%">
       <img src="object_engineer.png" width="200px" alt="Object Detection Engineer">
     </td>
   </tr>
@@ -37,7 +37,11 @@
 
 ### ✨ Philosophy
 
-> "For me, creation is a holistic journey. Whether it’s a line of code, a machine learning model, or a digital canvas, I love designing every dimension of a project. It is this constant urge to create to build something where nothing existed that truly keeps me alive."
+<p align="center">
+  <img src="codi.png" width="180px" />
+</p>
+
+> "For me, creation is a holistic journey. Whether it’s a line of code, a machine learning model, or a digital canvas, I love designing every dimension of a project. It is this constant urge to create—to build something where nothing existed—that truly keeps me alive."
 
 ---
 
