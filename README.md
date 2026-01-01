@@ -26,7 +26,6 @@
       🌸 <b>Working on:</b> Engineering a scalable E2E Test Framework at <b>D Kare Bilgi Teknolojileri</b>.<br>
       🧠 <b>Deep Dive:</b> Advancing my expertise in <b>AI-powered Computer Vision</b>, focusing on real-time object detection and spatial intelligence.<br>
       👁️ <b>CV Background:</b> Developed high-impact safety systems using <b>YOLO & OpenCV</b>, turning complex visual data into actionable insights.<br>
-      🎨 <b>Creative Side:</b> I design aesthetic planners—because for me, "control" is a form of art. 
     </td>
     <td width="25%">
       <img src="object_engineer.png" width="200px" alt="Object Detection Engineer">
