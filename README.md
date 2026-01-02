@@ -7,7 +7,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeynepduzel/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-FFB6C1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zeynepsduzel.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-FFB6C1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zeynepsduzel.artydigital.com.tr)
 [![Medium](https://img.shields.io/badge/Medium-Read_My_Articles-FFB6C1?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zeynepsduzel)
 
 </div>
