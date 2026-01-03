@@ -2,7 +2,7 @@
   <img src="header.png" width="100%" />
 </p>
 
-### 👩‍💻 Computer Engineer | Automation Engineer | AI & Computer Vision Enthusiast
+### 👩‍💻 Computer Engineer | Automation Engineer | AI & Computer Vision Enthusiast  <img src="[header.png](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5xZDBoaHMzcmE2dTQ4cnBzYW5vaWt0b3VhOHY1bmZ4am9odm9lYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GJACwlJbtiWrYeWoqM/giphy.gif)" width="50%" />
 
 <div align="center">
 
