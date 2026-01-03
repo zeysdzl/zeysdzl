@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="header.png" width="100%" />
+</p>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzE2bjBnaHk2dWJ1endqZmxtYWF6NTl5ZXlwMHF5anFoeTQxeGVmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WFraUzZzOQdos/giphy.gif" width="300px" />
 </p>
 
 ### Computer Engineer | Automation Engineer | AI & Computer Vision Enthusiast 
 
 <p align="left">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2tmOWQwbDc5cDhoMjBud3QyY2J0dHJlbGJ3dm0weHc1Y2ZocDkybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9lyuDkgZJ4OBO/giphy.gif" width="300px" />
+  <img src="hi.gif" width="100px" />
 </p>
 
 <div align="center">
