@@ -6,7 +6,7 @@
 ### Computer Engineer | Automation Engineer | AI & Computer Vision Enthusiast 
 
 <p align="left">
-  <img src="hi.gif" width="50px" />
+  <img src="hi.gif" width="20px" />
 </p>
 
 <div align="center">
