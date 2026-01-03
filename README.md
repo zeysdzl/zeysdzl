@@ -1,6 +1,6 @@
 <p align="center">
 </p>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzE2bjBnaHk2dWJ1endqZmxtYWF6NTl5ZXlwMHF5anFoeTQxeGVmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WFraUzZzOQdos/giphy.gif" width="700px" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWVmOGJtbTQ3ZDZhaGR5b25uZWJ2ajlyNmtmbjJldHV4czExbm9odCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OwJhwgfpmTKNErbzRv/giphy.gif" width="1000px" />
 </p>
 
 ### Computer Engineer | Automation Engineer | AI & Computer Vision Enthusiast 
