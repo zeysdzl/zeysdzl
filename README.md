@@ -2,7 +2,11 @@
   <img src="header.png" width="100%" />
 </p>
 
-### 👩‍💻 Computer Engineer | Automation Engineer | AI & Computer Vision Enthusiast  <img src="[header.png](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5xZDBoaHMzcmE2dTQ4cnBzYW5vaWt0b3VhOHY1bmZ4am9odm9lYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GJACwlJbtiWrYeWoqM/giphy.gif)" width="50%" />
+### Computer Engineer | Automation Engineer | AI & Computer Vision Enthusiast 
+
+<p align="left">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2tmOWQwbDc5cDhoMjBud3QyY2J0dHJlbGJ3dm0weHc1Y2ZocDkybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9lyuDkgZJ4OBO/giphy.gif" width="300px" />
+</p>
 
 <div align="center">
 
@@ -40,7 +44,7 @@
 <table>
   <tr>
     <td width="20%" align="center">
-      <img src="codi.png" width="150px" />
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dkd3Z2am5vdnNkYXQyYms2cmgxOTduYTBiOWlvajVwanRpZ2NtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" width="150px" />
     </td>
     <td width="80%">
       <blockquote>
