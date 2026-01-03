@@ -6,7 +6,7 @@
 ### Computer Engineer | Automation Engineer | AI & Computer Vision Enthusiast 
 
 <p align="left">
-  <img src="hi.gif" width="20px" />
+  <img src="https://media.tenor.com/MJ8r-vS609cAAAAi/cute-hello-kitty.gif" width="50px" />
 </p>
 
 <div align="center">
