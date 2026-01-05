@@ -45,7 +45,7 @@
     </td>
     <td width="80%">
       <blockquote>
-        "For me, creation is a holistic journey. Whether it’s a line of code, a machine learning model, or a digital canvas, I love designing every dimension of a project. It is this constant urge to create to build something where nothing existed that truly keeps me alive."
+        "For me, creating is a journey that includes design, analysis, and management. I enjoy managing a project from the very beginning to the final result. It is important for me to add my own perspective to every stage. Whether I am writing code or building a model, creating something from zero is what truly motivates me."
       </blockquote>
     </td>
   </tr>
