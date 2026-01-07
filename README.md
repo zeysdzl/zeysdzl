@@ -24,9 +24,9 @@
       <br><br>
       I believe that engineering is as much about aesthetics as it is about logic. Whether I am architecting a test suite or training a neural network, I am driven by the desire to design systems that are both functional and visually intuitive.
       <br><br>
-      🌸 <b>Working on:</b> Engineering a scalable E2E Test Framework at <b>D Kare Bilgi Teknolojileri</b>.<br>
-      🧠 <b>Deep Dive:</b> Advancing my expertise in <b>AI-powered Computer Vision</b>, focusing on real-time object detection and spatial intelligence.<br>
-      👁️ <b>CV Background:</b> Developed high-impact safety systems using <b>YOLO & OpenCV</b>, turning complex visual data into actionable insights.<br>
+      <b>Working on:</b> Engineering a scalable E2E Test Framework at <b>D Kare Bilgi Teknolojileri</b>.<br>
+      <b>Deep Dive:</b> Advancing my expertise in <b>AI-powered Computer Vision</b>, focusing on real-time object detection and spatial intelligence.<br>
+      <b>CV Background:</b> Developed high-impact safety systems using <b>YOLO & OpenCV</b>, turning complex visual data into actionable insights.<br>
     </td>
     <td width="25%">
       <img src="object_engineer.png" width="200px" alt="Object Detection Engineer">
@@ -45,7 +45,7 @@
     </td>
     <td width="80%">
       <blockquote>
-        "For me, creating is a journey that includes design, analysis, and management. I enjoy managing a project from the very beginning to the final result. It is important for me to add my own perspective to every stage. Whether I am writing code or building a model, creating something from zero is what truly motivates me."
+        For me, creating is a journey that includes design, analysis, and management. I enjoy managing a project from the very beginning to the final result. It is important for me to add my own perspective to every stage. Whether I am writing code or building a model, creating something from zero is what truly motivates me.
       </blockquote>
     </td>
   </tr>
@@ -53,7 +53,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <div align="center">
 
