@@ -50,18 +50,43 @@
 
 ---
 
-### Tech Stack & Tools
+
+## Languages & Tools
 
 <div align="center">
 
+### Programming Languages
 <img src="https://img.shields.io/badge/Python-FFB6C1?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Selenium-FF69B4?style=flat-square&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-FFB6C1?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-FF69B4?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-FFB6C1?style=flat-square&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-FF69B4?style=flat-square&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FFB6C1?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-FF69B4?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/C-FFB6C1?style=flat-square&logo=c&logoColor=white" />
 
+<br/>
+
+### Computer Vision / ML
+<img src="https://img.shields.io/badge/TensorFlow-FF69B4?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Ultralytics%20YOLO-FFB6C1?style=flat-square&logo=yolo&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-FF69B4?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-FFB6C1?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-FF69B4?style=flat-square&logo=opencv&logoColor=white" />
+
+<br/>
+
+### 🤖 Generative AI
+<img src="https://img.shields.io/badge/Hugging%20Face-FFB6C1?style=flat-square&logo=huggingface&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-FF69B4?style=flat-square&logo=ollama&logoColor=white" />
+
+<br/>
+
+### Tools & Technologies
+<img src="https://img.shields.io/badge/GitHub-FFB6C1?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-FF69B4?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-FFB6C1?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-FF69B4?style=flat-square&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Colab-FFB6C1?style=flat-square&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/NVIDIA-FF69B4?style=flat-square&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/Edge%20Devices-FFB6C1?style=flat-square&logo=raspberrypi&logoColor=white" />
+
+<br/>
 </div>
 
 ---
