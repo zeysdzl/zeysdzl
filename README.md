@@ -68,6 +68,8 @@
 <img src="https://img.shields.io/badge/PyTorch-FF69B4?style=flat-square&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-FFB6C1?style=flat-square&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-FF69B4?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Roboflow-FFB6C1?style=flat-square&logo=roboflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Label%20Studio-FF69B4?style=flat-square&logo=labelstudio&logoColor=white" />
 
 <br/>
 
