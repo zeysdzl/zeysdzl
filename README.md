@@ -1,6 +1,6 @@
 <p align="center">
 </p>
-  <img src="welcome.gif" width="1000px" />
+  <img src="welcome.gif" width="900px" />
 </p>
 
 ### Computer Engineer | Automation Engineer | AI & Computer Vision Enthusiast <img src="https://media.tenor.com/MJ8r-vS609cAAAAi/cute-hello-kitty.gif" width="40px" valign="middle" />
