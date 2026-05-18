@@ -1,9 +1,11 @@
 <p align="center">
-</p>
   <img src="welcome.gif" width="900px" />
 </p>
 
-### Computer Engineer | Automation Engineer | AI & Computer Vision Enthusiast <img src="https://media.tenor.com/MJ8r-vS609cAAAAi/cute-hello-kitty.gif" width="40px" valign="middle" />
+<h3 align="center">
+  AI Automation Engineer &nbsp;·&nbsp; Prompt Engineer &nbsp;·&nbsp; Computer Engineer
+  &nbsp;<img src="https://media.tenor.com/MJ8r-vS609cAAAAi/cute-hello-kitty.gif" width="36px" valign="middle" />
+</h3>
 
 <div align="center">
 
@@ -15,21 +17,22 @@
 
 ---
 
-### 🎀 About Me 
+### 🎀 About Me
 
 <table>
   <tr>
     <td>
-      I’m a <b>Computer Engineer</b> and <b>Test Automation Engineer</b>, working on end-to-end test automation with <b>Python</b> and <b>Selenium</b>. I design and maintain <b>E2E frameworks</b> with an emphasis on reliability and ease of maintenance.
+      I'm a <b>Computer Engineer</b> building at the intersection of <b>AI, automation, and product</b>. My day-to-day involves designing intelligent workflows with <b>n8n</b>, engineering prompts that actually work, and shaping AI-powered products at <a href="https://artydigital.com.tr"><b>Arty Digital</b></a> — an AI-native digital agency based in Türkiye.
       <br><br>
-      I also work on <b>computer vision</b> projects, mainly real-time object detection and spatial understanding. In previous projects, I used <b>YOLO</b> and <b>OpenCV</b> to build <b>safety-focused</b> visual detection systems.
+      I care about <b>how things work end-to-end</b> — from the model call to the client-facing output. Whether it's an AI video ad, a multi-step automation, or a computer vision pipeline, I want to understand every layer and own the result.
+      <br><br>
+      I also have a background in <b>test automation</b> (Python, Selenium) and <b>computer vision</b> (YOLO, OpenCV) — which means I bring an engineering mindset to everything I build with AI.
     </td>
-    <td width="25%">
-      <img src="object_engineer.png" width="200px" alt="Object Detection Engineer">
+    <td width="25%" align="center">
+      <img src="object_engineer.png" width="200px" alt="AI Engineer" />
     </td>
   </tr>
 </table>
-
 
 ---
 
@@ -42,7 +45,7 @@
     </td>
     <td width="80%">
       <blockquote>
-        For me, creating is a journey that includes design, analysis, and management. I enjoy managing a project from the very beginning to the final result. It is important for me to add my own perspective to every stage. Whether I am writing code or building a model, creating something from zero is what truly motivates me.
+        I believe the best AI outputs come from people who understand both the creative vision <i>and</i> the technical constraints. I sit in that overlap — writing prompts that respect token limits, designing automations that handle edge cases, building products that don't just demo well but actually hold up. Creating something from zero, with full ownership over the process, is what keeps me going.
       </blockquote>
     </td>
   </tr>
@@ -50,45 +53,44 @@
 
 ---
 
-
-## Languages & Tools
+## 🛠️ Stack & Tools
 
 <div align="center">
 
-### Programming Languages
-<img src="https://img.shields.io/badge/Python-FFB6C1?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-FF69B4?style=flat-square&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/C-FFB6C1?style=flat-square&logo=c&logoColor=white" />
-
-<br/>
-
-### Computer Vision / ML
-<img src="https://img.shields.io/badge/TensorFlow-FF69B4?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Ultralytics%20YOLO-FFB6C1?style=flat-square&logo=yolo&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-FF69B4?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-FFB6C1?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-FF69B4?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Roboflow-FFB6C1?style=flat-square&logo=roboflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Label%20Studio-FF69B4?style=flat-square&logo=labelstudio&logoColor=white" />
-
-<br/>
-
-### 🤖 Generative AI
-<img src="https://img.shields.io/badge/Hugging%20Face-FFB6C1?style=flat-square&logo=huggingface&logoColor=white" />
+### 🤖 AI & Automation
+<img src="https://img.shields.io/badge/n8n-FF69B4?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-FFB6C1?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_API-FF69B4?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_API-FFB6C1?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Ollama-FF69B4?style=flat-square&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFB6C1?style=flat-square&logo=huggingface&logoColor=white" />
 
 <br/>
 
-### Tools & Technologies
+### 🎬 AI Video & Creative
+<img src="https://img.shields.io/badge/Kling_3.0-FF69B4?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Higgsfield-FFB6C1?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Runway-FF69B4?style=flat-square&logoColor=white" />
+
+<br/>
+
+### 👁️ Computer Vision / ML
+<img src="https://img.shields.io/badge/YOLO_(Ultralytics)-FFB6C1?style=flat-square&logo=yolo&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-FF69B4?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FFB6C1?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-FF69B4?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Roboflow-FFB6C1?style=flat-square&logo=roboflow&logoColor=white" />
+
+<br/>
+
+### 💻 Programming & Dev
+<img src="https://img.shields.io/badge/Python-FF69B4?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-FFB6C1?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-FF69B4?style=flat-square&logo=selenium&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-FFB6C1?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-FF69B4?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-FFB6C1?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-FF69B4?style=flat-square&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Colab-FFB6C1?style=flat-square&logo=googlecolab&logoColor=white" />
-<img src="https://img.shields.io/badge/NVIDIA-FF69B4?style=flat-square&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/Edge%20Devices-FFB6C1?style=flat-square&logo=raspberrypi&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-FF69B4?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-FFB6C1?style=flat-square&logo=jupyter&logoColor=white" />
 
-<br/>
 </div>
 
 ---
