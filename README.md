@@ -122,39 +122,21 @@
   <tr>
     <td width="50%" valign="top">
       <h3>💌 Davetiye Dijital</h3>
-      <i>AI-Powered Wedding Invitation SaaS — Founder &amp; Lead Engineer</i>
-      <ul>
-        <li>Config-driven Next.js/React platform: couples launch a customized, RSVP-enabled invitation site in under 5 minutes</li>
-        <li>Shared-component, multi-template architecture across 7+ design directions (modern-illustrative, dark-dramatic, botanical, classic, luxury, vintage)</li>
-        <li>AI-assisted design pipeline: trend research → AI-generated hero visuals → Kling-based animation → Framer Motion overlays</li>
-      </ul>
+      <i>AI-powered wedding invitation SaaS — founded and built as lead engineer.</i>
     </td>
     <td width="50%" valign="top">
       <h3>🏊 Pool Alert</h3>
-      <i>Edge AI Real-Time Safety System</i>
-      <ul>
-        <li>YOLOv5 + OpenCV on Raspberry Pi 5, real-time child detection at &lt;200ms latency</li>
-        <li>Custom height-estimation logic cut false positives by ~35% under variable outdoor lighting</li>
-        <li>Validated across 20+ structured test scenarios (camera angle, shadow interference)</li>
-      </ul>
+      <i>Edge AI safety system with real-time child detection.</i>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🏀 BasketVision</h3>
-      <i>AI-Powered Sports Analytics</i>
-      <ul>
-        <li>Python + YOLOv8 basketball tracking and analysis tool</li>
-        <li>85%+ detection precision for players and ball across 10+ game sequences</li>
-      </ul>
+      <i>AI-powered basketball tracking &amp; analytics tool.</i>
     </td>
     <td width="50%" valign="top">
       <h3>🏢 Corporate Web Solutions</h3>
-      <i>Legal, Medical &amp; Fitness</i>
-      <ul>
-        <li>GSAP-animated sites shipped for 3+ law firms and fitness clients</li>
-        <li>E-commerce medical supplies platform (Yonca Grup Medikal) with sub-2s load times</li>
-      </ul>
+      <i>Animated marketing sites for legal, medical &amp; fitness clients.</i>
     </td>
   </tr>
 </table>
@@ -166,7 +148,6 @@
 - 🔭 Building AI-powered products &amp; automations at **Arty Digital**
 - 🧪 Founder &amp; lead engineer on **Davetiye Dijital**
 - 🎓 Pursuing a second degree in **Management Information Systems** at Anadolu University
-- 🌍 English (C1) · Turkish (Native) · Arabic (A2) · Spanish (A2)
 
 ---
 
@@ -185,6 +166,6 @@
   </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeysdzl&theme=react-dark&color=ffb6c1&bg_color=0d1117&hide_border=false" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeysdzl&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&area_color=ff69b4&hide_border=true&radius=16&custom_title=Zeynep's%20Contribution%20Graph" width="100%" />
 
 </div>
