@@ -1,10 +1,10 @@
-<img src="assets/hero.png" width="100%" alt="Zeynep, painted among peonies: software and QA engineer" />
+<img src="assets/hero-v2.png" width="100%" alt="Zeynep, painted among peonies: software and QA engineer" />
 
 <p align="center">
-<a href="https://zeynepsduzel.artydigital.com.tr"><img src="assets/l-portfolio.png" width="16%" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/zeynepduzel/"><img src="assets/l-linkedin.png" width="16%" alt="LinkedIn" /></a>
-<a href="https://medium.com/@zeynepsduzel"><img src="assets/l-medium.png" width="16%" alt="Medium" /></a>
-<a href="mailto:zeynepsduzel@gmail.com"><img src="assets/l-email.png" width="16%" alt="Email" /></a>
+<a href="https://zeynepsduzel.artydigital.com.tr"><img src="assets/l-portfolio-v2.png" width="16%" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/zeynepduzel/"><img src="assets/l-linkedin-v2.png" width="16%" alt="LinkedIn" /></a>
+<a href="https://medium.com/@zeynepsduzel"><img src="assets/l-medium-v2.png" width="16%" alt="Medium" /></a>
+<a href="mailto:zeynepsduzel@gmail.com"><img src="assets/l-email-v2.png" width="16%" alt="Email" /></a>
 </p>
 
 
@@ -36,7 +36,7 @@ also here ✿ <a href="https://github.com/zeysdzl/medium_yolo">YOLOv8 pipeline</
 
 <img src="assets/h-stack.png" width="100%" alt="My toolbox" />
 
-<img src="assets/stack.png" width="100%" alt="Build: Python, TypeScript, Next.js, React, React Native, Swift, Kotlin, Tailwind. Test: Selenium, Postman, Swagger, Jira. AI: Claude API, OpenAI API, n8n. Vision: YOLO, OpenCV, PyTorch, TensorFlow, Roboflow. Ship: Supabase, SQL, Docker, GitHub Actions, Jenkins, Git. Film: Veo, Kling, Higgsfield, Midjourney, Premiere, CapCut." />
+<img src="assets/stack-v2.png" width="100%" alt="Build: Python, TypeScript, Next.js, React, React Native, Swift, Kotlin, Tailwind. Test: Selenium, Postman, Swagger, Jira. AI: Claude API, OpenAI API, n8n. Vision: YOLO, OpenCV, PyTorch, TensorFlow, Roboflow. Ship: Supabase, SQL, Docker, GitHub Actions, Jenkins, Git. Film: Veo, Kling, Higgsfield, Midjourney, Premiere, CapCut." />
 
 <br><br>
 
