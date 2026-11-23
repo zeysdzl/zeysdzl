@@ -71,7 +71,7 @@ text{{font-family:U,sans-serif;fill:{C['soft']};font-size:14px;letter-spacing:-.
 o.append(f'<rect width="{W}" height="{H}" rx="28" fill="{C["bg"]}"/>')
 
 # header
-o.append(f'<text x="{x0}" y="62">04 · Contributions</text>')
+o.append(f'<text x="{x0}" y="62">the last twelve months</text>')
 o.append(f'<text class="s" x="{x0 - 3}" y="122" style="font-size:58px">A year of <tspan font-style="italic">building</tspan></text>')
 o.append(f'<text class="s" x="{W - 72}" y="118" style="font-size:72px" text-anchor="end">{total:,}</text>')
 o.append(f'<text x="{W - 72}" y="148" text-anchor="end">contributions in the last year</text>')
