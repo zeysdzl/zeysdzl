@@ -10,14 +10,17 @@
 
 <br>
 
-<p align="center"><img src="assets/desk.gif" width="100%" alt="A tiny pink clay desk floating, with a laptop full of code" /></p>
-
 <img src="assets/h-about.png" width="100%" alt="A little about me" />
 
-I'm a **computer engineer** working across software engineering, QA and AI automation. I like owning a system end to end: the architecture, the automation, and the edge cases nobody else thought to test. Good engineering and good QA come from the same instinct: assume it breaks, then go find how. Before all this I worked on computer vision (YOLO, OpenCV, Raspberry Pi) and embedded systems (MSP430, C).
+<img src="assets/desk-sq.gif" align="right" width="210" alt="A tiny pink clay desk floating, with a laptop full of code" />
 
+I'm a **computer engineer** working across software engineering, QA and AI automation. I like owning a system end to end: the architecture, the automation, and the edge cases nobody else thought to test. 
 
-<br>
+Good engineering and good QA come from the same instinct: assume it breaks, then go find how. Before all this I worked on computer vision (YOLO, OpenCV, Raspberry Pi) and embedded systems (MSP430, C).
+
+These days I'm building AI-powered products at **Arty Digital**, leading **Davetiye Dijital**, and finishing a second degree in Management Information Systems. After hours I make AI films.
+
+<br clear="right">
 
 <img src="assets/h-work.png" width="100%" alt="Selected work" />
 
