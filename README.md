@@ -1,13 +1,12 @@
-<img src="assets/hero.png" width="100%" alt="Hi, I'm Zeynep Şevval Düzel, software and QA engineer" />
+<img src="assets/hero.png" width="100%" alt="Zeynep, painted among peonies: software and QA engineer" />
 
 <p align="center">
-<a href="https://zeynepsduzel.artydigital.com.tr"><img src="assets/l-portfolio.png" width="24%" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/zeynepduzel/"><img src="assets/l-linkedin.png" width="24%" alt="LinkedIn" /></a>
-<a href="https://medium.com/@zeynepsduzel"><img src="assets/l-medium.png" width="24%" alt="Medium" /></a>
-<a href="mailto:zeynepsduzel@gmail.com"><img src="assets/l-email.png" width="24%" alt="Email" /></a>
+<a href="https://zeynepsduzel.artydigital.com.tr"><img src="assets/l-portfolio.png" width="16%" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/zeynepduzel/"><img src="assets/l-linkedin.png" width="16%" alt="LinkedIn" /></a>
+<a href="https://medium.com/@zeynepsduzel"><img src="assets/l-medium.png" width="16%" alt="Medium" /></a>
+<a href="mailto:zeynepsduzel@gmail.com"><img src="assets/l-email.png" width="16%" alt="Email" /></a>
 </p>
 
-<img src="assets/ticker.svg" width="100%" alt="currently: shipping Davetiye Dijital, writing Selenium suites, teaching YOLO to see, automating the boring parts, cutting AI films after hours" />
 
 <br>
 

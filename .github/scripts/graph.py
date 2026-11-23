@@ -52,7 +52,7 @@ def font(name, fam, style="normal", weight=400):
     b = base64.b64encode((HERE / "fonts" / f"{name}.woff2").read_bytes()).decode()
     return f"@font-face{{font-family:{fam};font-style:{style};font-weight:{weight};src:url(data:font/woff2;base64,{b})}}"
 
-W, H = 1200, 560
+W, H = 1200, 400
 cell, gap = 15, 4
 step = cell + gap
 x0, y0 = 84, 196
@@ -101,27 +101,6 @@ o.append(f'<text x="{lx - 10}" y="{ly + 12}" style="font-size:12px" text-anchor=
 for i, col in enumerate(C["levels"]):
     o.append(f'<rect x="{lx + i * step}" y="{ly}" width="{cell}" height="{cell}" rx="4.5" fill="{col}"/>')
 o.append(f'<text x="{lx + 5 * step + 6}" y="{ly + 12}" style="font-size:12px">More</text>')
-
-# stats
-sy = 420
-stats = [(f"{longest}", "day longest streak"), (f"{current}", "day current streak"),
-         (f"{active}", "active days"), (f"{best['contributionCount']}", f"best day · {best_date.day} {best_date:%b}")]
-for i, (big, small) in enumerate(stats):
-    x = x0 + i * 150
-    o.append(f'<text class="s" x="{x - 2}" y="{sy + 40}" style="font-size:52px">{big}</text>')
-    o.append(f'<text x="{x}" y="{sy + 72}">{small}</text>')
-
-# weekday rhythm
-bx, bw, bg, bh = 760, 34, 14, 92
-peak = max(by_wd) or 1
-o.append(f'<text x="{bx}" y="{sy - 26}">Busiest on <tspan class="a" font-weight="500">{names[top_wd]}days</tspan></text>')
-for i, wd in enumerate(order):
-    v, x = by_wd[wd], bx + i * (bw + bg)
-    h = max(6, round(bh * v / peak))
-    fill = C["levels"][4] if wd == top_wd else C["levels"][2]
-    o.append(f'<rect x="{x}" y="{sy - 6}" width="{bw}" height="{bh}" rx="10" fill="{C["card"]}"/>')
-    o.append(f'<rect class="b" style="animation-delay:{300 + i * 70}ms" x="{x}" y="{sy - 6 + bh - h}" width="{bw}" height="{h}" rx="10" fill="{fill}"><title>{v} on {names[wd]}days</title></rect>')
-    o.append(f'<text x="{x + bw / 2}" y="{sy + bh + 16}" style="font-size:12px" text-anchor="middle">{names[wd][0]}</text>')
 
 o.append("</svg>")
 OUT.parent.mkdir(exist_ok=True)
