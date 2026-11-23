@@ -22,10 +22,10 @@ I'm a **computer engineer** working across software engineering, QA and AI autom
 <img src="assets/h-work.png" width="100%" alt="Selected work" />
 
 <p align="center">
-<a href="https://davetiyedijital.com/"><img src="assets/p-davetiye.png" width="49%" alt="Davetiye Dijital" /></a>
-<a href="https://github.com/zeysdzl/pool_guard"><img src="assets/p-pool.png" width="49%" alt="Pool Alert" /></a>
-<img src="assets/p-basket.png" width="49%" alt="BasketVision" />
-<img src="assets/p-qa.png" width="49%" alt="QA engineering" />
+<a href="https://davetiyedijital.com/"><img src="assets/p-davetiye-v2.png" width="40%" alt="Davetiye Dijital" /></a>
+<a href="https://github.com/zeysdzl/pool_guard"><img src="assets/p-pool-v2.png" width="40%" alt="Pool Alert" /></a>
+<img src="assets/p-basket-v2.png" width="40%" alt="BasketVision" />
+<img src="assets/p-qa-v2.png" width="40%" alt="QA engineering" />
 </p>
 
 <p align="center"><sub>
