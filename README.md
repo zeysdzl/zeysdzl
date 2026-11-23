@@ -11,16 +11,12 @@
 
 <br>
 
+<p align="center"><img src="assets/desk.gif" width="100%" alt="A tiny pink clay desk floating, with a laptop full of code" /></p>
+
 <img src="assets/h-about.png" width="100%" alt="A little about me" />
 
 I'm a **computer engineer** working across software engineering, QA and AI automation. I like owning a system end to end: the architecture, the automation, and the edge cases nobody else thought to test. Good engineering and good QA come from the same instinct: assume it breaks, then go find how. Before all this I worked on computer vision (YOLO, OpenCV, Raspberry Pi) and embedded systems (MSP430, C).
 
-<p align="center">
-<a href="https://artydigital.com.tr"><img src="assets/b-build.png" width="24%" alt="Building at Arty Digital" /></a>
-<a href="https://davetiyedijital.com/"><img src="assets/b-founded.png" width="24%" alt="Founder of Davetiye Dijital" /></a>
-<img src="assets/b-study.png" width="24%" alt="Studying MIS at Anadolu University" />
-<a href="https://zeynepsduzel.artydigital.com.tr/portfolio/ai-films"><img src="assets/b-side.png" width="24%" alt="Side quest: AI films" /></a>
-</p>
 
 <br>
 
@@ -52,6 +48,6 @@ also here ✿ <a href="https://github.com/zeysdzl/medium_yolo">YOLOv8 pipeline</
 <br><br>
 
 <p align="center">
-  <img src="hi.gif" width="90px" /><br>
+  <img src="assets/girl.gif" width="200px" alt="A clay girl happily typing on a pink laptop" /><br>
   <sub>thanks for stopping by ♡</sub>
 </p>
