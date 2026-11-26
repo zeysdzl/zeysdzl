@@ -11,7 +11,7 @@ text{font-family:U,sans-serif;fill:#a8637f;font-size:14px;letter-spacing:-.01em}
 <rect width="1200" height="400" rx="28" fill="#fff6f9"/>
 <text x="84" y="62">the last twelve months</text>
 <text class="s" x="81" y="122" style="font-size:58px">A year of <tspan font-style="italic">building</tspan></text>
-<text class="s" x="1128" y="118" style="font-size:72px" text-anchor="end">1,232</text>
+<text class="s" x="1128" y="118" style="font-size:72px" text-anchor="end">1,234</text>
 <text x="1128" y="148" text-anchor="end">contributions in the last year</text>
 <text x="84" y="184" style="font-size:12px">Nov</text>
 <text x="122" y="184" style="font-size:12px">Dec</text>
@@ -397,6 +397,7 @@ text{font-family:U,sans-serif;fill:#a8637f;font-size:14px;letter-spacing:-.01em}
 <rect class="c" style="animation-delay:936ms" x="1072" y="215" width="15" height="15" rx="4.5" fill="#d8427c"><title>14 on 2026-11-23</title></rect>
 <rect class="c" style="animation-delay:936ms" x="1072" y="234" width="15" height="15" rx="4.5" fill="#f4679a"><title>10 on 2026-11-24</title></rect>
 <rect class="c" style="animation-delay:936ms" x="1072" y="253" width="15" height="15" rx="4.5" fill="#ffe1eb"><title>0 on 2026-11-25</title></rect>
+<rect class="c" style="animation-delay:936ms" x="1072" y="272" width="15" height="15" rx="4.5" fill="#ffc0d5"><title>2 on 2026-11-26</title></rect>
 <text x="952" y="363" style="font-size:12px" text-anchor="end">Less</text>
 <rect x="962" y="351" width="15" height="15" rx="4.5" fill="#ffe1eb"/>
 <rect x="981" y="351" width="15" height="15" rx="4.5" fill="#ffc0d5"/>
